@@ -1,0 +1,14 @@
+{
+  "name": "react-native-pkg-bun",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/react-native": "latest",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "react": ">=17.0.2",
+    "react-native": ">0.64",
+    "typescript": "^5.0.0"
+  }
+}
